@@ -31,6 +31,7 @@ export default function App() {
     map.current.on("load", () => {
       for (const feature of geojson.features) {
         // create a HTML element for each feature
+
         const el = document.createElement("div");
         el.className = "marker";
 

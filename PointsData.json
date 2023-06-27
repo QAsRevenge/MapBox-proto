@@ -23,22 +23,12 @@
         "description": ""
       }
     },
+
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [55.36, 21.13]
-      },
-      "properties": {
-        "title": "",
-        "description": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [19, 55]
+        "coordinates": [12.95, 55.6]
       },
       "properties": {
         "title": "",
@@ -60,7 +50,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [55.60587, 13.00073]
+        "coordinates": [55.60587, 14.00073]
       },
       "properties": {
         "title": "",
